@@ -20,3 +20,8 @@
 ||sex*.com^
 ||porn*.com^
 ||xxx*.com^
+! ============ quy tắc ======
+/vlxx/
+/xvideo/
+/porn/
+/sex/
