@@ -1,11 +1,10 @@
 ! ===== VLXX / adult VN =====
 ||vlxx.mobi^
 ||vlxx.mx^
-||*.vlxx.*
+||*vlxx*
 
 ! ===== adult sites phổ biến =====
 ||xvideos.com^
-||www.xvideos.com^
 ||pornhub.com^
 ||www.pornhub.com^
 ||xnxx.com^
@@ -21,7 +20,8 @@
 ||porn*.com^
 ||xxx*.com^
 ! ============ quy tắc ======
-/vlxx/
-/xvideo/
-/porn/
-/sex/
+*porn*
+*xxx*
+*sex*
+*adult*
+*nsfw*
