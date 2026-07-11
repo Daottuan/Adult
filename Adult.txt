@@ -15,10 +15,12 @@
 ||redtube.com^
 ||youporn.com^
 
+
 ! ===== redirect / mirror / cdn biến thể =====
 ||sex*.com^
 ||porn*.com^
 ||xxx*.com^
+||jav*.blog^
 ! ============ quy tắc ======
 *porn*
 *xxx*
