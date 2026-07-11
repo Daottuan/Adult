@@ -14,13 +14,13 @@
 ||spankbang.com^
 ||redtube.com^
 ||youporn.com^
-
+||javsub.blog^
 
 ! ===== redirect / mirror / cdn biến thể =====
 ||sex*.com^
 ||porn*.com^
 ||xxx*.com^
-||jav*.blog^
+
 ! ============ quy tắc ======
 *porn*
 *xxx*
